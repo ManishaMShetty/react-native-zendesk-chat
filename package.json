@@ -1,5 +1,5 @@
 {
-  "name": "react-native-zendesk-chat",
+  "name": "react-native-zendesk",
   "version": "0.2.2",
   "description": "React Native Wrapper around Zopim Zendesk Chat",
   "main": "index.js",
