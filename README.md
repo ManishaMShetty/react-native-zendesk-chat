@@ -1,4 +1,4 @@
-# react-native-zendesk-chat
+# react-native-zendesk-CHAT
 
 Simple module that allows displaying Zopim Chat from Zendesk for React Native.
 
